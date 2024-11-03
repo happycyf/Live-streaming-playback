@@ -18,7 +18,7 @@ npm install
 ```
 
 ### 运行命令
-运行前请先去 /src/components//views/show.vue 的154行更改为服务器地址 搭建环境请参考[后台](https://github.com/happycyf/Live-streaming-software)
+运行前请先去 /src/components//views/show.vue 的154行更改为服务器地址 搭建环境请参考[后台](https://github.com/happycyf/Live-streaming-software) [服务器](https://github.com/happycyf/Live-streaming-backend)
 ```sh
 npm run dev
 ```
