@@ -1,8 +1,5 @@
-# vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
+## 开发软件选用
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
@@ -14,26 +11,14 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 安装命令
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
+### 运行命令
+运行前请先去 /src/components//views/show.vue 的154行更改为服务器地址 搭建环境请参考[后台](https://github.com/happycyf/Live-streaming-software)
 ```sh
 npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
